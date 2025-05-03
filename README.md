@@ -1,11 +1,13 @@
 # HCMTask3
-Code for HCM Group Research Project
+Code for HCM Group Research Project 
+(Please look at this file as a code file. If not, formatting gets messed up)
 
 Hello, 
 
 This is the code I used for the Hypertrophic Cardiomyopathy (HCM) Group research project Task 3. I have included images of the main code at the appendix of the report but I thought having a git repository for the entire code and files would be better. 
 
 When opening up the notebook, the working directory should be the "src" file as the code might not work with other working directories. The folder with all the patient data should be beside the src file:
+
 project/
 ├── src/
 │   └── working directory here
