@@ -17,7 +17,7 @@ project/
 
 │   └── HCMR_001_0001 (patient #1)
 
-│        └── HCMR_001_0001_Model_Frame_000.txt
+│				└── HCMR_001_0001_Model_Frame_000.txt
 
 │   └── HCMR_001_0002 (patient #2)
 
