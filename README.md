@@ -1,5 +1,6 @@
 # HCMTask3
 Code for HCM Group Research Project 
+
 (Please look at this file as a code file. If not, formatting gets messed up)
 
 Hello, 
@@ -9,11 +10,17 @@ This is the code I used for the Hypertrophic Cardiomyopathy (HCM) Group research
 When opening up the notebook, the working directory should be the "src" file as the code might not work with other working directories. The folder with all the patient data should be beside the src file:
 
 project/
+
 ├── src/
+
 │   └── working directory here
+
 ├── HCMR_100_1 (patient data)/
+
 │   └── HCMR_001_0001 (patient #1)
+
 │       └── HCMR_001_0001_Model_Frame_000.txt
+
 │   └── HCMR_001_0002 (patient #2)
 
 However, since there was one file with an error, the remaining 99 patient frames have already been extracted and placed inside "src" in "ed_models".
