@@ -15,11 +15,9 @@ project/
 
 ├── HCMR_100_1 (patient data)/
 
-│   └── HCMR_001_0001 (patient #1)
+│   └── HCMR_001_0001 
 
-│				└── HCMR_001_0001_Model_Frame_000.txt
-
-│   └── HCMR_001_0002 (patient #2)
+│   └── HCMR_001_0002 
 
 However, since there was one file with an error, the remaining 99 patient frames have already been extracted and placed inside "src" in "ed_models".
 
