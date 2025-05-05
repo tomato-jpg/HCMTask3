@@ -23,7 +23,7 @@ However, since there was one file with an error, the remaining 99 patient frames
 
 The main code is "KritisCode.ipynb" which is in the format of a Python Notebook for ease of reading and running the codes. The code calls other files throughout the notebook file such as "main.py" and "biv_plots.py" for visualisation, which were premade files given to us at the start of the project, but only "KritisCode.ipynb" needs to be run, the other files just have to be present in the src directory. 
 
-When setting up the environment, its the same commands as was given to us:
+When setting up the environment in terminal, its the same commands as was given to us:
 
 conda create --name biv-me python=3.11
 
